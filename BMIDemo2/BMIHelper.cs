@@ -18,15 +18,12 @@ namespace BMIDemo
 
         private static Calculator BMIFactory(People member)
         {
-            // 包成一個工廠
-            if (member.Sex == "Man")
-            {
-                return new ManCaculator(member);
-            }
-            else 
-            {
-                return new WomanCaculator(member);
-            }
+            // 使用Dictionary 消除if else
+            Dictionary<string, Func<Calculator>> mappingTable = new Dictionary<string, Func<Calculator>>();
+            mappingTable.Add("Man", () => { return new ManCaculator(member);});
+            mappingTable.Add("Woman", () => { return new ManCaculator(member); });
+
+            return mappingTable[member.Sex].Invoke();
         }
 
 

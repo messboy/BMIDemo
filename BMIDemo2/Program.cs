@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             // 提供人員資訊
-            var member = new People() { Sex = "Man", Height = 1.7, Weight = 75 };
+            var member = new People() { Sex = "Man", Height = 1.7, Weight = 55 };
 
             // 傳給BMIHelper 產生計算物件
             Calculator calculator = BMIHelper.GetCalculator(member);
