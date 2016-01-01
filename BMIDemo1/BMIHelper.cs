@@ -11,24 +11,15 @@ namespace BMIDemo
 
         internal static Calculator GetCalculator(People member)
         {
-             // 依照性別給出特定BMI計算器
-            Calculator cal = BMIFactory(member);
-            return cal;
-        }
-
-        private static Calculator BMIFactory(People member)
-        {
             // 包成一個工廠
             if (member.Sex == "Man")
             {
                 return new ManCaculator(member);
             }
-            else 
+            else
             {
                 return new WomanCaculator(member);
             }
         }
-
-
     }
 }

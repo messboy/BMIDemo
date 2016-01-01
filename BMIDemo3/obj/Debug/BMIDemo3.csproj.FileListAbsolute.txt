@@ -1,0 +1,6 @@
+C:\Users\OI\Documents\GIT\BMIDemo\BMIDemo3\bin\Debug\BMIDemo3.exe.config
+C:\Users\OI\Documents\GIT\BMIDemo\BMIDemo3\bin\Debug\BMIDemo3.exe
+C:\Users\OI\Documents\GIT\BMIDemo\BMIDemo3\bin\Debug\BMIDemo3.pdb
+C:\Users\OI\Documents\GIT\BMIDemo\BMIDemo3\obj\Debug\BMIDemo3.csprojResolveAssemblyReference.cache
+C:\Users\OI\Documents\GIT\BMIDemo\BMIDemo3\obj\Debug\BMIDemo3.exe
+C:\Users\OI\Documents\GIT\BMIDemo\BMIDemo3\obj\Debug\BMIDemo3.pdb

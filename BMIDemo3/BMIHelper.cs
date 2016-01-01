@@ -12,9 +12,9 @@ namespace BMIDemo
         internal static Calculator GetCalculator(People member)
         {
             // 使用Dictionary 消除if else
-            Dictionary<string, Func<Calculator>> mappingTable = new Dictionary<string, Func<Calculator>>();
-            mappingTable.Add("Man", () => { return new ManCaculator(member); });
-            mappingTable.Add("Woman", () => { return new ManCaculator(member); });
+            Dictionary<Sex, Func<Calculator>> mappingTable = new Dictionary<Sex, Func<Calculator>>();
+            mappingTable.Add(Sex.Man, () => { return new ManCaculator(member); });
+            mappingTable.Add(Sex.Woman, () => { return new ManCaculator(member); });
 
             return mappingTable[member.Sex].Invoke();
         }
