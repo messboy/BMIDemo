@@ -1,0 +1,13 @@
+C:\Users\OI\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\BMIDemo.exe.config
+C:\Users\OI\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\BMIDemo.exe
+C:\Users\OI\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\BMIDemo.pdb
+C:\Users\OI\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\BMIDemo.csprojResolveAssemblyReference.cache
+C:\Users\OI\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\BMIDemo.exe
+C:\Users\OI\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\BMIDemo.pdb
+C:\Users\OI\Documents\GIT\BMIDemo\ConsoleApplication1\bin\Debug\BMIDemo.exe.config
+C:\Users\OI\Documents\GIT\BMIDemo\ConsoleApplication1\obj\Debug\BMIDemo.exe
+C:\Users\OI\Documents\GIT\BMIDemo\ConsoleApplication1\obj\Debug\BMIDemo.pdb
+C:\Users\OI\Documents\GIT\BMIDemo\ConsoleApplication1\bin\Debug\BMIDemo.exe
+C:\Users\OI\Documents\GIT\BMIDemo\ConsoleApplication1\bin\Debug\BMIDemo.pdb
+C:\Users\OI\Documents\GIT\BMIDemo\ConsoleApplication1\obj\Debug\BMIDemo.csprojResolveAssemblyReference.cache
+C:\Users\OI\Documents\GIT\BMIDemo\ConsoleApplication1\bin\Debug\BMIDemo1.exe.config

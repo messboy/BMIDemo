@@ -1,0 +1,5 @@
+C:\Users\OI\Documents\GIT\BMIDemo\ConsoleApplication1\bin\Debug\BMIDemo1.exe.config
+C:\Users\OI\Documents\GIT\BMIDemo\ConsoleApplication1\bin\Debug\BMIDemo1.exe
+C:\Users\OI\Documents\GIT\BMIDemo\ConsoleApplication1\bin\Debug\BMIDemo1.pdb
+C:\Users\OI\Documents\GIT\BMIDemo\ConsoleApplication1\obj\Debug\BMIDemo1.exe
+C:\Users\OI\Documents\GIT\BMIDemo\ConsoleApplication1\obj\Debug\BMIDemo1.pdb
